@@ -1,0 +1,26 @@
+.navbar{background-color:#2e8b57;}
+.navbar a{color:white;}
+
+/*
+text-decoration:none; padding-top:10%; text:align:center; padding-left:5%; padding-right:5%; text-transform:uppercase; font-weight:600;
+*/
+
+body{width:vw; font-family:ubuntu; margin:0;}
+.about{background-image:url("http://eskipaper.com/images/desktop-backgrounds-13.jpg"); height:300px}
+.about p{position:static;padding-left:25%; font-size:3em; color:white; padding-top:10%}
+.me{padding-top:5%}
+.me h1{color:green}
+.portfolio{padding-bottom:3%;}
+.portfolio h1{color:green; text-align:center;}
+footer{background-color:#2e8b57;height:100px;}
+footer p{color:white; text-align:center; padding-top:3%}
+.aboutme{padding-top:2%;padding-bottom:2%}
+input {
+    width: 90%;
+}
+.contact{text-align:center; padding-top:5%}
+form{ padding-bottom:5%;}
+input[type=text]{border:2px #DAF7A6 solid; padding:.5%}
+input[type=submit]{background-color:green; color:white;padding:.25%;border:0px; }
+input[type=reset]{background-color:green; color:white;padding:.25%;border:0px  }
+.blurb{text-align:left;}
